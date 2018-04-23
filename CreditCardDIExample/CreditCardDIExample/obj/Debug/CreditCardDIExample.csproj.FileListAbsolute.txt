@@ -1,0 +1,7 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\bin\Debug\CreditCardDIExample.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\bin\Debug\CreditCardDIExample.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\bin\Debug\CreditCardDIExample.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\obj\Debug\CreditCardDIExample.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\obj\Debug\CreditCardDIExample.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\obj\Debug\CreditCardDIExample.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\CreditCardDIExample\CreditCardDIExample\obj\Debug\CreditCardDIExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\bin\Debug\BouncyBall.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\bin\Debug\BouncyBall.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\bin\Debug\BouncyBall.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.ParladIsCute.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.Properties.Resources.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csproj.GenerateResource.Cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\BouncyBall\BouncyBall\obj\Debug\BouncyBall.pdb
