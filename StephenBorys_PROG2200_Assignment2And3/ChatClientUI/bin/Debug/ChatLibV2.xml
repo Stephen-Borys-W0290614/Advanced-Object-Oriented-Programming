@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatLibV2</name>
+    </assembly>
+    <members>
+        <member name="F:ChatLibV2.Client.StopExecution">
+            <summary>
+            StopExecution is used to stop the excution of the client
+            </summary>
+        </member>
+        <member name="E:ChatLibV2.Client.MessageRecivied">
+            <summary>
+            This is the event for when a message is being recieved
+            </summary>
+        </member>
+        <member name="M:ChatLibV2.Client.Connect(System.String)">
+            <summary>
+            This function will connect the client to the server
+            </summary>
+            <param name="server">This is the server string</param>
+        </member>
+        <member name="M:ChatLibV2.Client.CheckForMessages">
+            <summary>
+            This is the method that will be run on the worker thread to always be looking for if a message has been recieved
+            </summary>
+        </member>
+        <member name="T:ChatLibV2.Delegates.MessageReciviedEventHandler">
+            <summary>
+            This is the event handler for when a message is recieved
+            </summary>
+            <param name="sender">This is the value for object</param>
+            <param name="e">this is the value for MessageRecievedArgs</param>
+        </member>
+        <member name="M:ChatLibV2.MessageRecievedArgs.#ctor(System.String)">
+            <summary>
+            This is the event for when a message is recieved it accepts the message from the user
+            </summary>
+            <param name="message">Message is the message that was recieved or sent from users</param>
+        </member>
+        <member name="F:ChatLibV2.Messages.client">
+            <summary>
+            This is the TCPClient
+            </summary>
+        </member>
+        <member name="F:ChatLibV2.Messages.stream">
+            <summary>
+            This is the network stream used for sending and recieveing messages
+            </summary>
+        </member>
+        <member name="F:ChatLibV2.Messages.checkStream">
+            <summary>
+            This is used to check if the stream is active or not
+            </summary>
+        </member>
+        <member name="F:ChatLibV2.Messages.connected">
+            <summary>
+            This is used to see if the client is connect to the server or not
+            </summary>
+        </member>
+        <member name="M:ChatLibV2.Messages.ReadMessage">
+            <summary>
+            This function will accept the data being sent from the server and 
+            will take the data, get it ready to be outputed for the user, then
+            will send the data back to the program to be outputed for the user
+            </summary>
+            <returns>
+            data- This is the message recieved
+            null
+            </returns>
+        </member>
+        <member name="M:ChatLibV2.Messages.WriteMessage(System.String)">
+            <summary>
+            This will take the message from the message box and then send the message through
+            The NetworkStream
+            </summary>
+            <param name="message">This is the message the user typed</param>
+        </member>
+        <member name="M:ChatLibV2.Messages.QuitApp(System.String)">
+            <summary>
+            This is the function used to close streams
+            </summary>
+            <param name="quitType">This is the string for the type of exit the user did</param>
+        </member>
+        <member name="M:ChatLibV2.Server.Start">
+            <summary>
+            This is the funsction that starts up the server
+            and gets it ready for a client to connect
+            </summary>
+        </member>
+    </members>
+</doc>

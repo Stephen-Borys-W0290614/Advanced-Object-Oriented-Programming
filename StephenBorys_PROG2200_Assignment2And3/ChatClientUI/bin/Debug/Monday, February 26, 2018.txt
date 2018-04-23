@@ -1,0 +1,5 @@
+Client connected to server at 127.0.0.1
+Client: Hello
+Client: Ed is a cutie and his prog works
+Client Has Disconnected From Server.Chat Closed.
+Server: An Error Has Occured With Receving A Message

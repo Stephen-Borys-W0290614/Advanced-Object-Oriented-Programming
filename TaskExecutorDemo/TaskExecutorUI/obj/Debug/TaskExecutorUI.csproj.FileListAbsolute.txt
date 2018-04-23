@@ -1,0 +1,12 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\bin\Debug\TaskExecutorUI.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\bin\Debug\TaskExecutorUI.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\bin\Debug\TaskExecutorUI.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.progressForm.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.Properties.Resources.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.csproj.GenerateResource.Cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\obj\Debug\TaskExecutorUI.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\bin\Debug\TasksLib.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TaskExecutorUI\bin\Debug\TasksLib.pdb

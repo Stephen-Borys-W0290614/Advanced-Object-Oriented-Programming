@@ -1,0 +1,6 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\obj\Debug\TasksLib.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\obj\Debug\TasksLib.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\bin\Debug\TasksLib.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\bin\Debug\TasksLib.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\obj\Debug\TasksLib.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TaskExecutorDemo\TasksLib\obj\Debug\TasksLib.pdb

@@ -1,0 +1,7 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\bin\Debug\TCPListenerDemoGOOD.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\bin\Debug\TCPListenerDemoGOOD.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\bin\Debug\TCPListenerDemoGOOD.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\obj\Debug\TCPListenerDemoGOOD.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\obj\Debug\TCPListenerDemoGOOD.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\obj\Debug\TCPListenerDemoGOOD.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPListenerDemoGOOD\TCPListenerDemoGOOD\obj\Debug\TCPListenerDemoGOOD.pdb

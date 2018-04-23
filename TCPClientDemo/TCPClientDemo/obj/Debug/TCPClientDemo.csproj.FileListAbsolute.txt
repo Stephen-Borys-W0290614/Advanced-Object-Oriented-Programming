@@ -1,0 +1,7 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\obj\Debug\TCPClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\bin\Debug\TCPClientDemo.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\bin\Debug\TCPClientDemo.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\bin\Debug\TCPClientDemo.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\obj\Debug\TCPClientDemo.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\obj\Debug\TCPClientDemo.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\TCPClientDemo\TCPClientDemo\obj\Debug\TCPClientDemo.pdb

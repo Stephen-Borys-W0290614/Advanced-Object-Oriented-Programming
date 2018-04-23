@@ -1,0 +1,10 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\ChatLogger.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\ChatLogger.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\obj\Debug\ChatLogger.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\obj\Debug\ChatLogger.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\obj\Debug\ChatLogger.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\log4net.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\NLog.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\log4net.xml
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment2And3\ChatLogger\bin\Debug\NLog.xml
