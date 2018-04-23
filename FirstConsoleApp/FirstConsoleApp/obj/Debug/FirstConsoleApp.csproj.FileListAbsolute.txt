@@ -1,0 +1,7 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

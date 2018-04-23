@@ -1,0 +1,12 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.csproj.GenerateResource.Cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\obj\Debug\GameProject.gameCanvas.resources
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\bin\Debug\images\char_sea-mine.png
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\GameProject\GameProject\bin\Debug\images\player-icon.png

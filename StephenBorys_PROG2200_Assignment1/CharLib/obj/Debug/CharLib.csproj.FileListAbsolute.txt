@@ -1,0 +1,6 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\bin\Debug\CharLib.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\bin\Debug\CharLib.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\obj\Debug\CharLib.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\obj\Debug\CharLib.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\obj\Debug\CharLib.dll
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\StephenBorys_PROG2200_Assignment1\CharLib\obj\Debug\CharLib.pdb

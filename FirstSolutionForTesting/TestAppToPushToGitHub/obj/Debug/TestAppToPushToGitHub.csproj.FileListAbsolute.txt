@@ -1,0 +1,7 @@
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\bin\Debug\TestAppToPushToGitHub.exe.config
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\bin\Debug\TestAppToPushToGitHub.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\bin\Debug\TestAppToPushToGitHub.pdb
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\obj\Debug\TestAppToPushToGitHub.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\obj\Debug\TestAppToPushToGitHub.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\obj\Debug\TestAppToPushToGitHub.exe
+C:\Users\NSCCStudent\Desktop\OOP\Borys-Stephen-w0290614\FirstSolutionForTesting\TestAppToPushToGitHub\obj\Debug\TestAppToPushToGitHub.pdb
